@@ -3,10 +3,10 @@
 Rest api using Node, Express, Mongo.
 We will build rest api for a simple file sharing app. 
 
-![demo gif](https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif)
+![demo gif](https://github.com/RajatMishra21/File-Sharing-MERN/blob/main/readme/inshare%20demo.gif)
 
-### Frontend source code can be found on @ShivamJoker Github
-https://github.com/ShivamJoker/InShare
+### Frontend source code can be found on @RajatMishra21 Github
+https://github.com/RajatMishra21/File-Sharing-MERN
 
 
 ## Installation 
